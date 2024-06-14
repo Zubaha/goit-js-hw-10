@@ -5,7 +5,11 @@
   |============================
 */
 @import url('./reset.css');
+@import url('./1-timer.css');
 
+body {
+  padding: 40px;
+}
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
   font-size: 16px;
